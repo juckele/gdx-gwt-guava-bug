@@ -1,3 +1,6 @@
+**THIS HAS BEEN FIXED: https://github.com/libgdx/libgdx/issues/4007#event-622688373**  
+**Thanks to the GDX team for a quick response!**
+
 This is a stripped down version of a basic LidGDX project that displays an
 unfortunate interaction I've been dealing with in another real use case.
 
