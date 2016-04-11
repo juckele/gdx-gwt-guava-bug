@@ -8,7 +8,7 @@ The .java file in the html project has been slimmed down to do nothing but
 import the core class.
 
 The base gwt.xml file in the html project can be edited by adding or removing
-    <inherits name="com.google.common.collect.Collect"/>
+    &lt;inherits name="com.google.common.collect.Collect"/>
     
 When this line is present, running `gradle war` from the base project will
 show a compilation error in the GWT compilation:
